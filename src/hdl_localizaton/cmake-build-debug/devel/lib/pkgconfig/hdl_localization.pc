@@ -1,0 +1,8 @@
+prefix=/home/sundong/exploring/test/src/hdl_localizaton/cmake-build-debug/devel
+
+Name: hdl_localization
+Description: Description of hdl_localization
+Version: 0.0.0
+Cflags: -I/home/sundong/exploring/test/src/hdl_localizaton/cmake-build-debug/devel/include -I/home/sundong/exploring/test/src/hdl_localizaton/include
+Libs: -L${prefix}/lib 
+Requires: 

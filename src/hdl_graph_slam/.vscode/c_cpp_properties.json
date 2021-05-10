@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/sundong/exploring/test/install_isolated/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/sundong/software/catkin_workspace/install/include/**",
+        "/home/sundong/exploring/test/src/ndt_omp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
